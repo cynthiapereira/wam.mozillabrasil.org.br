@@ -1,4 +1,11 @@
-wam.mozillabrasil.org.br
+WAM | We Are Mozillians
 ========================
 
-wam.mozillabrasil.org.br
+Tema para [WordPress](http://wordpress.org)
+
+#### Plugins necessários:
+
+[Meta Box](https://wordpress.org/plugins/meta-box/)
+
+[The Events Calendar](https://wordpress.org/plugins/the-events-calendar/)
+
